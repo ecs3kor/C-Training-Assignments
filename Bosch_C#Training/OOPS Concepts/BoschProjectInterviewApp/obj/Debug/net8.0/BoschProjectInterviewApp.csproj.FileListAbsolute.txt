@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\bin\Debug\net8.0\BoschProjectInterviewApp.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\bin\Debug\net8.0\BoschProjectInterviewApp.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\bin\Debug\net8.0\BoschProjectInterviewApp.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\bin\Debug\net8.0\BoschProjectInterviewApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\bin\Debug\net8.0\BoschProjectInterviewApp.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\refint\BoschProjectInterviewApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\BoschProjectInterviewApp.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\BoschProjectInterviewApp\obj\Debug\net8.0\ref\BoschProjectInterviewApp.dll

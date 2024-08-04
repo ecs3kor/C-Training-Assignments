@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\bin\Debug\net8.0\Assignment12.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\bin\Debug\net8.0\Assignment12.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\bin\Debug\net8.0\Assignment12.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\bin\Debug\net8.0\Assignment12.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\bin\Debug\net8.0\Assignment12.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\refint\Assignment12.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\Assignment12.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\Assignment12\obj\Debug\net8.0\ref\Assignment12.dll

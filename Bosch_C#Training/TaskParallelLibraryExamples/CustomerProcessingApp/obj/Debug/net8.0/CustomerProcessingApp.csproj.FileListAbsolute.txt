@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\bin\Debug\net8.0\CustomerProcessingApp.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\bin\Debug\net8.0\CustomerProcessingApp.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\bin\Debug\net8.0\CustomerProcessingApp.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\bin\Debug\net8.0\CustomerProcessingApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\bin\Debug\net8.0\CustomerProcessingApp.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\refint\CustomerProcessingApp.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\CustomerProcessingApp.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\CustomerProcessingApp\obj\Debug\net8.0\ref\CustomerProcessingApp.dll

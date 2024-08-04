@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\bin\Debug\net8.0\DifferentClasses.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\bin\Debug\net8.0\DifferentClasses.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\bin\Debug\net8.0\DifferentClasses.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\bin\Debug\net8.0\DifferentClasses.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\bin\Debug\net8.0\DifferentClasses.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\refint\DifferentClasses.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\DifferentClasses.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\DifferentClasses\obj\Debug\net8.0\ref\DifferentClasses.dll

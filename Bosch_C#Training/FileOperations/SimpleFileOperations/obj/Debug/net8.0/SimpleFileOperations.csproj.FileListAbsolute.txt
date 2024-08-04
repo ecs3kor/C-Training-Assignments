@@ -1,0 +1,4 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\SimpleFileOperations\obj\Debug\net8.0\SimpleFileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\SimpleFileOperations\obj\Debug\net8.0\SimpleFileOperations.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\SimpleFileOperations\obj\Debug\net8.0\SimpleFileOperations.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\SimpleFileOperations\obj\Debug\net8.0\SimpleFileOperations.csproj.CoreCompileInputs.cache

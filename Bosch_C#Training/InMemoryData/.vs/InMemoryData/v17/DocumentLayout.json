@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\inmemorydata\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\inmemorydata\\linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\inmemorydata\\linqexample\\productlist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\productlist.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\inmemorydata\\linqexample\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\inmemorydata\\linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D07F2D-6DF0-49F4-83AF-1A8CCA266876}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Product.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Product.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Product.cs",
+              "RelativeToolTip": "LINQExample\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:18:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductList.xml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\ProductList.xml",
+              "RelativeDocumentMoniker": "LINQExample\\ProductList.xml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\ProductList.xml",
+              "RelativeToolTip": "LINQExample\\ProductList.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-18T06:13:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Order.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Order.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Order.cs",
+              "RelativeToolTip": "LINQExample\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:50:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Customer.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Customer.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Customer.cs",
+              "RelativeToolTip": "LINQExample\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:22:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Program.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\Program.cs",
+              "RelativeToolTip": "LINQExample\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB8AAABNAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:21:32.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\bin\Debug\net8.0\ArrayExamples.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\bin\Debug\net8.0\ArrayExamples.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\bin\Debug\net8.0\ArrayExamples.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\bin\Debug\net8.0\ArrayExamples.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\bin\Debug\net8.0\ArrayExamples.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\refint\ArrayExamples.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ArrayExamples.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\ArrayExamples\obj\Debug\net8.0\ref\ArrayExamples.dll

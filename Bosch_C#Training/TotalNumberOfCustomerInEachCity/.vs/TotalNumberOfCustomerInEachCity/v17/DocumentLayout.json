@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\TotalNumberOfCustomerInEachCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F19EB9-C386-465C-81B6-3337BDD4BC24}|CityWiseCustomers\\CityWiseCustomers.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\totalnumberofcustomerineachcity\\citywisecustomers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F19EB9-C386-465C-81B6-3337BDD4BC24}|CityWiseCustomers\\CityWiseCustomers.csproj|solutionrelative:citywisecustomers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F19EB9-C386-465C-81B6-3337BDD4BC24}|CityWiseCustomers\\CityWiseCustomers.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\totalnumberofcustomerineachcity\\citywisecustomers\\citycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F19EB9-C386-465C-81B6-3337BDD4BC24}|CityWiseCustomers\\CityWiseCustomers.csproj|solutionrelative:citywisecustomers\\citycount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityCount.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\TotalNumberOfCustomerInEachCity\\CityWiseCustomers\\CityCount.cs",
+              "RelativeDocumentMoniker": "CityWiseCustomers\\CityCount.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\TotalNumberOfCustomerInEachCity\\CityWiseCustomers\\CityCount.cs",
+              "RelativeToolTip": "CityWiseCustomers\\CityCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:14:08.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\TotalNumberOfCustomerInEachCity\\CityWiseCustomers\\Program.cs",
+              "RelativeDocumentMoniker": "CityWiseCustomers\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\TotalNumberOfCustomerInEachCity\\CityWiseCustomers\\Program.cs",
+              "RelativeToolTip": "CityWiseCustomers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:13:27.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

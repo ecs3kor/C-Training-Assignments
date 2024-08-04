@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\bin\Debug\net8.0\GenericCollection.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\bin\Debug\net8.0\GenericCollection.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\bin\Debug\net8.0\GenericCollection.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\bin\Debug\net8.0\GenericCollection.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\bin\Debug\net8.0\GenericCollection.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\refint\GenericCollection.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\GenericCollection.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\GenericCollectionExample\GenericCollection\obj\Debug\net8.0\ref\GenericCollection.dll

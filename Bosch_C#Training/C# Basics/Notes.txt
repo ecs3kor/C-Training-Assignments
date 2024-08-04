@@ -1,0 +1,6 @@
+Agenda -
+
+Day1 - Basics of framework along with Visual Studio Introduction
+Day2 - Introduction to OOP in C#
+Day3 - Assemblies, Collections/LINQ/File IO/ Serialization
+Day4 - Design Patterns 

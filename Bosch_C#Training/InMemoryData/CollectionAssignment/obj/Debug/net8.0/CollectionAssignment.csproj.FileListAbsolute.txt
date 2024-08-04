@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\bin\Debug\net8.0\CollectionAssignment.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\bin\Debug\net8.0\CollectionAssignment.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\bin\Debug\net8.0\CollectionAssignment.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\bin\Debug\net8.0\CollectionAssignment.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\bin\Debug\net8.0\CollectionAssignment.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\refint\CollectionAssignment.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\CollectionAssignment.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\CollectionAssignment\obj\Debug\net8.0\ref\CollectionAssignment.dll

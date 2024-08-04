@@ -1,0 +1,79 @@
+Assignment:
+1)List different types of constraint which you can apply while formatting http attributes.
+2)In Layered Api add 3 controllers BoschRolesController, BoschEventsCOntroller, BoschUsersCOntroller with 3 methods
+
+
+What is REST/RESTFul API?
+	Representational State Transfer - Architectural Style Pattern/Development
+	In Microsoft- Web API - M-Model and C-Controller Pattern
+
+SOA- Service Oriented Architecture
+	Web Services-
+		SOAP- Simple Object Access Protocol
+			XML+HTTP
+		WSDL - Web service description language[XML]
+		WSE - Web Service Enhancements
+		WPF - Windows presentation forms
+		WF - Windows workflow foundation
+		WCF - Windows communication foundation service[2007]
+			IPc, TCP-IP, Http, Https, P2P, Frederal Laws[Govt. Applications]
+				Hard to configure which follows microsoft .Net framework specification
+
+
+Why RESTFul services?
+	PRINCIPLES OF REST-API development:
+		1)It should be stateless.
+		2)It should access all the resources from the server using only URI.
+		3)It should not have built-in encryption.
+		4)It should not have sessions.
+		5)It should use one and only one protocol. -Http
+		6)It should perform CRUD operations using Http verbs - GET/POST/PUT/DELETE/PATCH/MERGE....
+		7)It should return results only in JSON/XML/ATOM/OData etc formats [Unlike UI]
+
+Web API Development:
+	In-House/Client or Partners/Public
+	
+Create first ASP .NET Core Web API 8 Applications
+
+	In order to configure Swagger and use swagger UI to test API endpoints Microsoft uses SwashBuckle.ASP.NET Core
+https://localhost:7001/api/customers -> [GET - Fetch list of customers][Get() - Method]
+https://localhost:7001/api/customers/2378 -> [GET - Fetch list of customers][Get(int id) - Method]
+https://localhost:7001/api/customers -> [POST - Create/Insert new customer object][Post(Customer customer) - Method]
+https://localhost:7001/api/customers -> [PUT - Update existing customer object] [Put(Customer customer) - Method]
+https://localhost:7001/api/customers/2378-> [DELETE - Remove customer][Delete(Customer customer) - Method]
+
+Decorate every method using Http Attributes
+
+[HttpGet]
+[HttpPost]
+[HttpPut]
+[HttpDelete]
+
+Controller class-
+	[Route("api/Customer")
+	[ApiController]
+	ControllerBase
+ 
+PoC Events Management Service/API
+Entities:
+	Employee
+	Event
+	User
+
+RDBMS SQL Queries:
+DDL(Data Definition Language)- Create, Alter, Drop, Truncate
+DML(Data Manipulation Language)- Update, Insert, Delete
+DQL(Data Query Language)-Select
+TCL(Transaction Control Language)-Commit,Rollback
+
+CQRS Pattern with Mediator Pattern
+
+What is CQRS Pattern?
+	Command Query Responsibility Segregation Pattern
+	Command -> DML
+	Query -> DQL
+
+
+JWT: JSON Web token
+	System.IdentityMOdel.Tokens.JWT
+	Microsoft.ASPNETCore.Authentication.JWTBearer

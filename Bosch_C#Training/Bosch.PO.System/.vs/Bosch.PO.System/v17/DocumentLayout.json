@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4D2BC4-3677-4D35-BF12-6A378C0C1311}|Bosch.PO.UI\\Bosch.PO.UI.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\bosch.po.system\\bosch.po.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4D2BC4-3677-4D35-BF12-6A378C0C1311}|Bosch.PO.UI\\Bosch.PO.UI.csproj|solutionrelative:bosch.po.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\bosch.po.system\\bosch.po.module\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|solutionrelative:bosch.po.module\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\bosch.po.system\\bosch.po.module\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|solutionrelative:bosch.po.module\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\bosch.po.system\\bosch.po.module\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E129E3-5CEF-42F9-BB5D-3D5000104BFA}|Bosch.PO.Module\\Bosch.PO.Module.csproj|solutionrelative:bosch.po.module\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Bosch.PO.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.UI\\Program.cs",
+              "RelativeToolTip": "Bosch.PO.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:03:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Product.cs",
+              "RelativeDocumentMoniker": "Bosch.PO.Module\\Product.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Product.cs",
+              "RelativeToolTip": "Bosch.PO.Module\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:02:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Order.cs",
+              "RelativeDocumentMoniker": "Bosch.PO.Module\\Order.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Order.cs",
+              "RelativeToolTip": "Bosch.PO.Module\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:02:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Customer.cs",
+              "RelativeDocumentMoniker": "Bosch.PO.Module\\Customer.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\Bosch.PO.System\\Bosch.PO.Module\\Customer.cs",
+              "RelativeToolTip": "Bosch.PO.Module\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:00:04.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

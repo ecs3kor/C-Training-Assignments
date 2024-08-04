@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6159806-CFA2-4D6D-886B-43F351C3C8B4}|Assignment21\\Assignment21.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6159806-CFA2-4D6D-886B-43F351C3C8B4}|Assignment21\\Assignment21.csproj|solutionrelative:assignment21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA43C78-CB1F-4C0C-B323-836B9816BF2A}|Assignment18\\Assignment18.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA43C78-CB1F-4C0C-B323-836B9816BF2A}|Assignment18\\Assignment18.csproj|solutionrelative:assignment18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC639664-669A-4223-AF0A-553251817F5C}|Assignment16\\Assignment16.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC639664-669A-4223-AF0A-553251817F5C}|Assignment16\\Assignment16.csproj|solutionrelative:assignment16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DB3BC1-8813-49F1-97E8-46B9014D4593}|Assignment15\\Assignment15.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DB3BC1-8813-49F1-97E8-46B9014D4593}|Assignment15\\Assignment15.csproj|solutionrelative:assignment15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A992CB3F-81BB-4F2C-972A-AD6C3EEE2063}|Assignment14\\Assignment14.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A992CB3F-81BB-4F2C-972A-AD6C3EEE2063}|Assignment14\\Assignment14.csproj|solutionrelative:assignment14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310C7973-AB3E-4819-BD13-F9A9B8AFA787}|Assignment13\\Assignment13.csproj|c:\\users\\ecs3kor\\documents\\c # training\\bosch- c#training\\day1_assignments\\assignment13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310C7973-AB3E-4819-BD13-F9A9B8AFA787}|Assignment13\\Assignment13.csproj|solutionrelative:assignment13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment21\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment21\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment21\\Program.cs",
+              "RelativeToolTip": "Assignment21\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:28:19.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment18\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment18\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment18\\Program.cs",
+              "RelativeToolTip": "Assignment18\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:23:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment16\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment16\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment16\\Program.cs",
+              "RelativeToolTip": "Assignment16\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:03:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment15\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment15\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment15\\Program.cs",
+              "RelativeToolTip": "Assignment15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:49:59.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment14\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment14\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment14\\Program.cs",
+              "RelativeToolTip": "Assignment14\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:42:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment13\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment13\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\Bosch- C#Training\\Day1_Assignments\\Assignment13\\Program.cs",
+              "RelativeToolTip": "Assignment13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:41:26.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

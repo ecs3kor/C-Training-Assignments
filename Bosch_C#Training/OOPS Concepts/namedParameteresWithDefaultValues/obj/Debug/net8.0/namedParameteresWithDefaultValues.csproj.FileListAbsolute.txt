@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\bin\Debug\net8.0\namedParameteresWithDefaultValues.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\bin\Debug\net8.0\namedParameteresWithDefaultValues.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\bin\Debug\net8.0\namedParameteresWithDefaultValues.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\bin\Debug\net8.0\namedParameteresWithDefaultValues.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\bin\Debug\net8.0\namedParameteresWithDefaultValues.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\refint\namedParameteresWithDefaultValues.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\namedParameteresWithDefaultValues.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\OOPS Concepts\namedParameteresWithDefaultValues\obj\Debug\net8.0\ref\namedParameteresWithDefaultValues.dll

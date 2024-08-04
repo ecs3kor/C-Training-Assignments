@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRQLPfXXL5I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\InMemoryData\\LINQExample\\LINQExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ECS3KOR\\.nuget\\packages\\crayon\\2.0.69\\crayon.2.0.69.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\bin\Debug\net8.0\SimpleTasksExample.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\bin\Debug\net8.0\SimpleTasksExample.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\bin\Debug\net8.0\SimpleTasksExample.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\bin\Debug\net8.0\SimpleTasksExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\bin\Debug\net8.0\SimpleTasksExample.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\refint\SimpleTasksExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\SimpleTasksExample.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\TaskParallelLibraryExamples\SimpleTasksExample\obj\Debug\net8.0\ref\SimpleTasksExample.dll

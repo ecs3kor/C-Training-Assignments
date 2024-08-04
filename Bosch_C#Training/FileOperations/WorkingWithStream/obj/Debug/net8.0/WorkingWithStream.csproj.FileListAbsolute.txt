@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\bin\Debug\net8.0\WorkingWithStream.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\bin\Debug\net8.0\WorkingWithStream.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\bin\Debug\net8.0\WorkingWithStream.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\bin\Debug\net8.0\WorkingWithStream.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\bin\Debug\net8.0\WorkingWithStream.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\refint\WorkingWithStream.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\WorkingWithStream.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\FileOperations\WorkingWithStream\obj\Debug\net8.0\ref\WorkingWithStream.dll

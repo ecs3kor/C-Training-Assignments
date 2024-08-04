@@ -1,0 +1,6 @@
+﻿<Products>
+	<Product ProductId="1001" ProductName="Samsung Galaxy" UnitPrice="20000" CompanyName="Samsung.Inc"></Product>
+	<Product ProductId="1002" ProductName="Samsung GalaxyS22" UnitPrice="25000" CompanyName="Samsung.Inc"></Product>
+	<Product ProductId="1003" ProductName="Samsung GalaxyS22 ultra" UnitPrice="30000" CompanyName="Samsung.Inc"></Product>
+	<Product ProductId="1004" ProductName="Iphone 15 Pro" UnitPrice="100000" CompanyName="Apple.Inc"></Product>
+</Products>

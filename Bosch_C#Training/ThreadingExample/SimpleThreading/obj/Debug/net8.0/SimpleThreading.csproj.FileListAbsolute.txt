@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\bin\Debug\net8.0\SimpleThreading.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\bin\Debug\net8.0\SimpleThreading.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\bin\Debug\net8.0\SimpleThreading.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\bin\Debug\net8.0\SimpleThreading.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\bin\Debug\net8.0\SimpleThreading.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\refint\SimpleThreading.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\SimpleThreading.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\ThreadingExample\SimpleThreading\obj\Debug\net8.0\ref\SimpleThreading.dll

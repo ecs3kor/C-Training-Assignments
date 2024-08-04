@@ -1,0 +1,17 @@
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\LINQExample.exe
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\LINQExample.deps.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\LINQExample.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\LINQExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\LINQExample.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\refint\LINQExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.pdb
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\ref\LINQExample.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\bin\Debug\net8.0\Crayon.dll
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExample.csproj.AssemblyReference.cache
+C:\Users\ECS3KOR\Documents\Bosch- C#Training\InMemoryData\LINQExample\obj\Debug\net8.0\LINQExam.CB4BA4EC.Up2Date

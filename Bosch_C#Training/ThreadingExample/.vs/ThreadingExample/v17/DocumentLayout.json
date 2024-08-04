@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\ThreadingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C879F0EF-29F1-4E4E-9FF8-6C567D47692C}|ThreadSynchronization\\ThreadSynchronization.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\threadingexample\\threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879F0EF-29F1-4E4E-9FF8-6C567D47692C}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C291565-FAC9-406C-94A1-F02E76D95277}|SimpleThreading\\SimpleThreading.csproj|c:\\users\\ecs3kor\\documents\\bosch- c#training\\threadingexample\\simplethreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C291565-FAC9-406C-94A1-F02E76D95277}|SimpleThreading\\SimpleThreading.csproj|solutionrelative:simplethreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\ThreadingExample\\ThreadSynchronization\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\ThreadingExample\\ThreadSynchronization\\Program.cs",
+              "RelativeToolTip": "ThreadSynchronization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:51:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\ThreadingExample\\SimpleThreading\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleThreading\\Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\Bosch- C#Training\\ThreadingExample\\SimpleThreading\\Program.cs",
+              "RelativeToolTip": "SimpleThreading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:25:44.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
