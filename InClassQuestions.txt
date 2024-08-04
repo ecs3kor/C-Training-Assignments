@@ -1,0 +1,118 @@
+1)List different types of constraint which you can apply while formatting http attributes.
+    [HttpDelete] 
+    [HttpGet] 
+    [HttpHead] 
+    [HttpOptions]
+    [HttpPatch]
+    [HttpPost]
+    [HttpPut]
+
+2)Difference bwteen Razor Application, MVC Application and the .NET CORE.
+A Razor Page is very similar to the view component that ASP.NET MVC developers use. It has all the same syntax and functionality.
+The key difference is that the model and controller code are also included within the Razor Page. It is more of an MVVM (Model-View-ViewModel) framework. It enables two-way data binding and a more straightforward development experience with isolated concerns.
+
+3)Explain each method of common repository class.
+        public async Task<List<T>> GetAllAsync()
+        {
+            return await _dbContext.Set<T>().ToListAsync();
+        } 
+=> Fetches all the values from database.Thos function call is done when select * query is used in SQL.
+	public async Task<T> GetDetailsAsync(int id)
+	{
+    		return await _dbContext.Set<T>().FindAsync(id);
+	}
+=>Fetchs only one record of which id is passed. This function call is analogous to select * from ..... where id= '';
+	public async Task<int> InsertAsync(T entity)
+	{
+    		await _dbContext.Set<T>().AddAsync(entity);
+    		return await _dbContext.SaveChangesAsync();
+	}
+=>Inserts the data from view to database using POST http attribute. This is similar to insert statement of SQL.
+	public async Task<int> UpdateAsync(T entity)
+	{
+    		_dbContext.Entry(entity).State = EntityState.Modified;
+   		 return await _dbContext.SaveChangesAsync();
+	}
+=>Updates the database. This is similar to update statement of SQL.
+	public async Task<int> DeleteAsync(int id)
+	{
+   	 	var entity = await _dbContext.Set<T>().FindAsync(id);
+    		if (entity == null)
+    		{
+       		 return 0;
+    		}
+    		_dbContext.Set<T>().Remove(entity);
+   	 	return await _dbContext.SaveChangesAsync();
+	}
+=>Deleted a tuple based on the id that is passed as parameter. This is similar to delete statement of SQL.
+
+4)Why should we use repository pattern.
+    We want a clean way to handle the models
+    We don’t want to pass the database credentials in the constructor of this class every time we need to use it
+    We want to use the same interface in case we ever need to change the database type
+
+5)GLobal error handling in ASP .Net MVC Application
+Global.Aspx can manage all types of errors (Ajax calls/ all of unexpected Errors). 
+There are 2 methods of doing this:
+1)Using middlewear
+public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            else
+            {
+                app.UseExceptionHandler("/Error");
+            }
+            app.UseStaticFiles();
+            app.UseCookiePolicy();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template:
+                    "{controller=Home}/{action=Index}/{id?}");
+            });
+        }
+2)Using UseExceptionHandler extension 
+app.UseExceptionHandler(
+             builder =>
+             {
+                 builder.Run(
+                 async context =>
+                 {
+                     context.Response.StatusCode =
+                  (int)HttpStatusCode.InternalServerError;
+                     context.Response.ContentType =
+                     "application/json";
+                     var exception =
+                     context.Features.Get
+                     <IExceptionHandlerFeature>();
+                     if (exception != null)
+                     {
+                         var error = new ErrorMessage()
+                         {
+                             Stacktrace =
+                             exception.Error.StackTrace,
+                             Message = exception.Error.Message
+                         };
+                         var errObj =
+                         JsonConvert.SerializeObject(error);
+                         await context.Response.WriteAsync
+                         (errObj).ConfigureAwait(false);
+                     }
+                 });
+             }
+        );
+
+6)Why do we need CORS?
+We need CORS for authorized resource sharing with external third parties. For example, when you want to pull data from external APIs that are public or authorized. You also need CORS if you want to allow authorized third-party access to your own server resources.
+
+7)How does GC work?
+ It is an automatic memory management system that aims to reclaim memory occupied by objects that are no longer in use by the application.
+It will clear the memory from managed Heap.
+
+Other Assignments done in written notebook.
+
+
