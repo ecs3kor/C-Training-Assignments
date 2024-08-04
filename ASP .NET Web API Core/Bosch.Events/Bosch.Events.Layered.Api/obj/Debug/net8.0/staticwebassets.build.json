@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C0ZSD+ZAbMsrK5u3gHdmz1incFijyZnD6QkqyBrWMjQ=",
+  "Source": "Bosch.Events.Layered.Api",
+  "BasePath": "_content/Bosch.Events.Layered.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bosch.eCommerce.MVC.UI.props" />
+</Project>

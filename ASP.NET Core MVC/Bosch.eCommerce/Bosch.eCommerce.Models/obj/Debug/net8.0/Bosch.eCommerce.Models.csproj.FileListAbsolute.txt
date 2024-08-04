@@ -1,0 +1,11 @@
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\bin\Debug\net8.0\Bosch.eCommerce.Models.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\bin\Debug\net8.0\Bosch.eCommerce.Models.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\bin\Debug\net8.0\Bosch.eCommerce.Models.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\refint\Bosch.eCommerce.Models.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\Bosch.eCommerce.Models.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Models\obj\Debug\net8.0\ref\Bosch.eCommerce.Models.dll

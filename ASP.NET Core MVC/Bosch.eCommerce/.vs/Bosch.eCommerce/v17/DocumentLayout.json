@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\products\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\products\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\products\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\products\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\payment\\views\\home\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\payment\\views\\home\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\payment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\payment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\carts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\carts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\bosch.ecommerce\\bosch.ecommerce.mvc.ui\\areas\\carts\\views\\home\\yourcartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FC3843B-6813-46CD-BE23-087DF2233A05}|Bosch.eCommerce.MVC.UI\\Bosch.eCommerce.MVC.UI.csproj|solutionrelative:bosch.ecommerce.mvc.ui\\areas\\carts\\views\\home\\yourcartitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YourCartItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Views\\Home\\YourCartItems.cshtml",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Views\\Home\\YourCartItems.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Views\\Home\\YourCartItems.cshtml",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Views\\Home\\YourCartItems.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:17:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:13:59.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Products\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:12:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Views\\Home\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Views\\Home\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Views\\Home\\CreateOrder.cshtml",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Views\\Home\\CreateOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:09:59.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Payment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:07:55.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\Bosch.eCommerce\\Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bosch.eCommerce.MVC.UI\\Areas\\Carts\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:00:57.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

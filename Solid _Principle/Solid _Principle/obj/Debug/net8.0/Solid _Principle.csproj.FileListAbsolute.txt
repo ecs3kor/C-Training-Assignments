@@ -1,0 +1,14 @@
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\bin\Debug\net8.0\Solid _Principle.exe
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\bin\Debug\net8.0\Solid _Principle.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\bin\Debug\net8.0\Solid _Principle.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\bin\Debug\net8.0\Solid _Principle.dll
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\bin\Debug\net8.0\Solid _Principle.pdb
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.dll
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\refint\Solid _Principle.dll
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.pdb
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\Solid _Principle.genruntimeconfig.cache
+C:\Users\ECS3KOR\Documents\C # Training\Solid _Principle\Solid _Principle\obj\Debug\net8.0\ref\Solid _Principle.dll

@@ -1,0 +1,15 @@
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\bin\Debug\net8.0\Bosch.Events.UseCases.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\bin\Debug\net8.0\Bosch.Events.UseCases.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\bin\Debug\net8.0\Bosch.Events.UseCases.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\bin\Debug\net8.0\Bosch.Events.Domain.Entities.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\bin\Debug\net8.0\Bosch.Events.Domain.Entities.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.csproj.AssemblyReference.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Ev.E3818ED6.Up2Date
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\refint\Bosch.Events.UseCases.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\Bosch.Events.UseCases.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.UseCases\obj\Debug\net8.0\ref\Bosch.Events.UseCases.dll

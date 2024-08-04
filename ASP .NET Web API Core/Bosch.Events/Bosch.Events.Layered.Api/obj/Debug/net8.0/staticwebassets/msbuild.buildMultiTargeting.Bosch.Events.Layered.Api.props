@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bosch.Events.Layered.Api.props" />
+</Project>

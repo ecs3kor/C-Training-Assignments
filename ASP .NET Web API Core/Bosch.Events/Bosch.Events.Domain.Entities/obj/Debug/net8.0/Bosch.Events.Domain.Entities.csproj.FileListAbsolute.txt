@@ -1,0 +1,11 @@
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\bin\Debug\net8.0\Bosch.Events.Domain.Entities.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\bin\Debug\net8.0\Bosch.Events.Domain.Entities.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\bin\Debug\net8.0\Bosch.Events.Domain.Entities.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\refint\Bosch.Events.Domain.Entities.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\Bosch.Events.Domain.Entities.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP .NET Web API Core\Bosch.Events\Bosch.Events.Domain.Entities\obj\Debug\net8.0\ref\Bosch.Events.Domain.Entities.dll

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:views\\employees\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\views\\employees\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:views\\employees\\two.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\models\\employeesordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:models\\employeesordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\views\\employees\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:views\\employees\\one.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\first-mvc-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61F6BB5C-5A62-4E43-A61C-6A68D13C3C94}|First-MVC-App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\List.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\List.cshtml",
+              "RelativeToolTip": "Views\\Employees\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T04:21:16.641Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:20:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesOrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Models\\EmployeesOrderVM.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeesOrderVM.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Models\\EmployeesOrderVM.cs",
+              "RelativeToolTip": "Models\\EmployeesOrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:48:53.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:29:07.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Two.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\Two.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Two.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\Two.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Two.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T05:14:22.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "One.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\One.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\One.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Employees\\One.cshtml",
+              "RelativeToolTip": "Views\\Employees\\One.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T05:01:48.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T04:34:30.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\First-MVC-App\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:54:30.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

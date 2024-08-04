@@ -1,0 +1,17 @@
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.DAL.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.DAL.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.DAL.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\refint\Bosch.eCommerce.DAL.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\ref\Bosch.eCommerce.DAL.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.DAL.runtimeconfig.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.Models.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\bin\Debug\net8.0\Bosch.eCommerce.Models.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eC.413EFEC1.Up2Date
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.DAL\obj\Debug\net8.0\Bosch.eCommerce.DAL.genruntimeconfig.cache

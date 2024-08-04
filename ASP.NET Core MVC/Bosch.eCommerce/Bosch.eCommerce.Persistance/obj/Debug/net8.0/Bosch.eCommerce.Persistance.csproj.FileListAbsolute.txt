@@ -1,0 +1,17 @@
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.Persistance.deps.json
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.Persistance.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.Persistance.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.AssemblyInfoInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.AssemblyInfo.cs
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\refint\Bosch.eCommerce.Persistance.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\ref\Bosch.eCommerce.Persistance.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.DAL.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.Models.dll
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.DAL.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\bin\Debug\net8.0\Bosch.eCommerce.Models.pdb
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eCommerce.Persistance.csproj.AssemblyReference.cache
+C:\Users\ECS3KOR\Documents\C # Training\ASP.NET Core MVC\Bosch.eCommerce\Bosch.eCommerce.Persistance\obj\Debug\net8.0\Bosch.eC.C12271F1.Up2Date

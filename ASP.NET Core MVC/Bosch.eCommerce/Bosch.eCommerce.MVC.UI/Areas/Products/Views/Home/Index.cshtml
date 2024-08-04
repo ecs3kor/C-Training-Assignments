@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProductDto>
+@* @model Pagination<ProductDto> *@
+@{
+    ViewData["Title"] = "Products List!";
+      
+}
+
+@* <div class="text-sm-end align-content-md-end">
+    <a asp-area="Carts" asp-controller="Home" asp-action="YourCartItems">
+        <img src="~/@Url.Content("cart.jpg")" class="card-img-top"  style="height: 5px; width: 5px"> </a>
+</div>
+ *@
+<div class="text-sm-end align-content-md-end">
+    <a asp-area="Carts" asp-controller="Home" asp-action="YourCartItems" class="btn p-0">
+        <img src="~/Images/cart.jpg" alt="Cart" style="height: 50px; width: 50px;">
+    </a>
+    <h6> Cart</h6>
+</div>
+
+
+<div class="text-center">
+    <h1>@ViewBag.PageTitle</h1>
+    <hr />
+    <div class="container-fluid">
+        <div class="row">
+            @foreach (var product in Model)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-4">
+                    <div class="card shadow-lg bg-body-tertiary rounded" style="width: 100%;">
+                        <img src="~/@Url.Content(product.Picture)" class="card-img-top" alt="@product.ProductName" style="object-fit: cover; height: 250px;">
+                        <div class="card-body">
+                            <h5 class="card-title">@product.ProductName</h5>
+                            <p class="card-text">@product.Description</p>
+                            <hr>
+                            <div class="text-center">
+                                <a class="btn btn-success" asp-area="Products" asp-controller="Home" asp-action="Details" asp-route-id="@product.ProductId">Show Details</a>
+                                <a class="btn btn-dark" asp-area="Carts" asp-controller="Home" asp-action="AddToCart" asp-route-productId="@product.ProductId"> Add To Cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        @{
+            var pageCount = (int)Math.Ceiling((double)(@ViewBag.TotalProducts ?? 0) / (@ViewBag.PageSize));
+        }
+
+        <div class="d-flex justify-content-center mt-4" style="padding-bottom:20px">
+            @for (int i = 1; i <= pageCount; i++)
+            {
+                <a asp-action="Index" asp-route-page="@i" class="btn btn-danger m-1">@i</a>
+            }
+
+        </div>
+    </div>
+</div>

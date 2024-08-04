@@ -1,0 +1,300 @@
+Assignment:
+1)Find out how do you integrate razor pay payment gateway in ASP.NET Core MVC Application
+2)Difference bwteen Razor Application, MVC Application and the .NET CORE.
+3)Explain each method of common repository class.
+4)Why should we use repository pattern.
+5)resizing the product list according to changing area pagination inside the list.
+6)Category wise route - https://localhost:7110//Products//Home//CategoryWiseSelection//cst_id
+7)Welcome to Bosch Shoe categories Product List
+8)Product details page as in photo in phone including original price is striked sales price and discounted amount
+9)Upon click event of Proceed to checkout button you should be directed to razor pay api once the payment is successfully completed redirect to thank you page.
+10) GLobal error handling in ASP .Net MVC Application
+11)Why do we need CORS?
+12)
+
+
+
+
+
+ECommerce Application -Shoes
+	1)See the different products and their details
+	2)Implement the Payment application with razorpay
+	3)Cart management[Add/Remove Products or update quantity of the product]
+	4)Security(Authentication and Authorization)[Identity Framework/OAuth]
+	5)
+
+
+What is MVC?
+	Model-View-Controller Architectural Pattern
+	
+	Model/Entities- It contains Business rules.[Contain data]/Domain Entities
+	View - User Interface[Display Info about our Domain/Interaction
+	Controller - [Takes a request and generates the response -Takes the data from 	the model and pass it to the view and after the view has been processed sends the 	o/p to the client].
+
+
+Why ASP.NET Core MVC 8?
+	1)Loose coupling.
+	2)Easy testing.
+	3)Conditional rendering of the views. 
+	4)Control over the markup[HTMl tags]
+	5)Familiarity with the patterns.[MVC/MVVM]
+	6)IOC and D.I out of the box
+	7)Application configuration using JSON.
+	8)Complete application lifecycle configuration using Middlewares
+		Middleware - is a function.All middleware functions are configured with the method starting with use (Ex: UseAuthentication(), UseAuthorization())s
+
+ASP.NET - .NET 8 -
+	1)ASP .NET Razor application deveopment
+	2)ASP .NET MVC Architecture development
+	3)ASP .NET Web API development.
+
+Web Application is a collection of resources[Webpage, static assests,data,configuration]
+
+URL/Route- Every resource is uniquely identified using route.
+
+What is controller?
+	Controller is a class.It contains methods. These methods are called as an ACTION METHODS.
+	ACTION METHODS : It is the ultimate destination of your request where the response will be generated.
+
+	
+
+How routes are defined in .NET Core MVC App?
+	
+	https://localhost:443377/Controller/ActionMethods/Parameters(params are optional)
+	https://localhost:443377/Area/Controller/ActionMethods/Parameters(params are optional) -> here area represents a feature of your application.[Feature-Wise-Folder-Structure]
+
+	For the default route,.NET MVC Application has preconfigured default controller and default action in that controller.
+	Controller = HOME and default action method = index
+	
+	Types of routes:
+	https://localhost:443377	[Default]	
+	https://localhost:443377/Home	[Specific]
+	https://localhost:443377/Employees/Details/1001 [Parameterized] -> here Employees controller overrides Home Controller and Details ActionMethod overrrides Index ActionMethod
+
+ASP.NET Web Application will be hosted on Kestrel Web server.
+	Features of Kestrel Web server.
+	1) Cross-platform
+	2) High Performance
+	3) Lightweight
+	4) Integration with ASP.NET Core
+	5) Security hardened
+	6)Wide protocol support
+	7) Flixible workloads
+
+All the routes will be ready as soon as you start the application with the required services from service containers you may want to use during the application development.
+
+All View files extension is .cshtml -> (HTML + C# => Processed on server side. =>HTML)
+Razor engine ->
+	1)Razor engine gives us razor syntax-> It starts wit @ symbol
+	2)HTML helper methods - 
+	3)HTML helper attributes -
+<a asp-area="employees" asp-controller ="home" asp-action ="Index"></a>\
+
+How does controller[Action Method] work?
+	1)Controller can work alone[Without Model and View]
+		Send Files/Plain text response to the client.
+	2)Controller can work only with model
+		Send the data as JSON to the client
+	3)Controller can work only with view
+		Send static response to the client
+	4)Controller will work with both model and view
+		Dynamic web pages
+
+Different results returned by actionMethod
+	1)View()
+	2)Content()
+	3)File()
+	4)ParticalView()
+	5)Json()
+	
+
+Communication betweeen controller and view - Sending data along with model to view
+	1)ViewBag 	-Is a dynamic object
+	2)ViewData	-Dictionary object
+	3)TempData	-Dictionary object	
+ 	4)VM-View Model	
+	
+How do you redirect the view to another action method?
+	If anyone render action method oe then it should be redirected to another action method
+
+
+
+eCommerce Application structure -feature wise folder structure - in mVC Architecture
+	Application/Project-
+		Areas
+			Categories
+				Controllers
+					Home controller
+				Views
+                                Models
+			Products	
+				Controllers
+					Home controller
+				Views
+                                Models
+			Customers
+				Controllers
+					Home controller
+				Views
+                                Models
+			Carts
+				Controllers
+					Home controller
+				Views
+                                Models
+			Invoices
+				Controllers
+					Home controller
+				Views
+                                Models
+			Security
+				Controllers
+					Home controller
+				Views
+                                Models
+		wwwroot - static assets
+		controller - controller
+			HomeController
+		views - views of controller
+			index.cshtml
+			Privacy.cshtml
+		Models - Models
+			...
+
+		
+	
+Introduction to Entity Framework Core[EF Core]
+	ORM[Object Relational mapper]
+
+Object - POCO(Plain old CLE Object)
+
+Approaches - 
+	1)Database First modelling(DB First model)
+		You willl have the database and from datatables, you will generate objects EF COre it will generate with realationships or
+		 assiations . EFCore will provvide the mapper between ojects and tables.
+		Association:
+			1)one-to-ont
+```````````````		2)one to many
+`			3)Many to Many
+	2)Code First modelling
+		When you develop the application from scratch where db does'nt exist. Use code first Approach
+		You will create new db and its objects from the entities
+		create, update and remove changes from database
+		
+		in order to work with code first modelling you will install 2 nuget packages
+		1)Microsoft.EntityFrameworkCore.SqlServer - Provider for SQL Server for EF 
+		2)Microsoft.EntityFrameworkCore.Tools -Gives us migration commands
+
+Example of Connection string-
+	Data Source=KOR-C-002EU\SQLEXPRESS;Initial Catalog=SynechronECommerceDb;Trusted_Connection=true;TrustServerCertificate=True;
+
+In order to create new database and convert DbSets into Database tabled, let's use migration commands
+
+In order to run the migration commands you will use Package Manager Console Window
+	Tools Menu => Nuget Package Manager => Package manager console
+Add-migration - name InitialMigration
+update database
+
+Category-
+Insert/Update/Delete [For these operations]
+
+ByDefault all action methods use GET Method
+You need to work with Two HTTP Verbs/Methods
+	GET/POST/PUT/DELETE
+In order to work with Post method we need to write 2 action methods.
+	1)GET - This action method will render the data entry form on your browser
+	2)POST - This action method, you will submit the form data which you will store in persistant storage.[Database]
+	
+Product Model => View
+
+DTO-Data transfer object
+
+Properties => ProductDTo => View
+Properties => 4 properties
+
+COntroller => View [Display- GET Request]
+View => COntroller[Submit - POST/PUT/DELETE Requests]
+
+Http Protocol is Stateless. It does not preserve the request.Once the request and response lifecylce is completed,the data will be lost.
+
+State Management in ASP.NET Core MVC [Data - Non secured and Secured]
+
+Non-Secured [Client/Browser]								Secured
+	Query String										Session
+	Cookie												SessionId
+	Web Storage											
+		Session
+		Local
+	data-* attributes [jQuery] 
+
+Session Id is sent in your first response in form of cookie at your client side and this cookie is transient cookie.
+Http Context respresent the request response lifecycle
+
+Working with Store Procedure in EF COre Code First Approach
+	1)Add blank/Empty migration in Data Access Layer project
+		Add-Migration -Name CartStoredProcedures[Run this command in package manager console]
+	2)Write raw sql code in up and down methods of migration class.
+	3)
+
+Security:
+	Aunthentication-Check/Validity the identity of the user
+		1) User ID and Password
+		2) Biometrics
+		3) Social Media[OAuth Protocol -Google,Facebook,Microsofct,....100+]
+		4) 2F/MF
+		..........
+	Authorization: Grant or revoke a permission from your application
+
+Security Trimming:
+	
+		
+To Implement the authentication process in ASP.NET Core MVC applications, we can make use of Identity Framework
+		Executing the logic before and after -		
+			1)Action methods are executed
+			2)Controllers
+			#)Global filter
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

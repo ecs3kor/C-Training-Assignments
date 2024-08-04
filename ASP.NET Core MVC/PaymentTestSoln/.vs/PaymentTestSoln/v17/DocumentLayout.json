@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\paymenttestsoln\\paymenttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|solutionrelative:paymenttest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\paymenttestsoln\\paymenttest\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|solutionrelative:paymenttest\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\paymenttestsoln\\paymenttest\\views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|solutionrelative:paymenttest\\views\\home\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\paymenttestsoln\\paymenttest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|solutionrelative:paymenttest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|c:\\users\\ecs3kor\\documents\\c # training\\asp.net core mvc\\paymenttestsoln\\paymenttest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46C5F0-0AFE-44A1-A2A3-82E6E132E480}|PaymentTest\\PaymentTest.csproj|solutionrelative:paymenttest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\appsettings.json",
+              "RelativeToolTip": "PaymentTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T17:09:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "PaymentTest\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Models\\OrderModel.cs",
+              "RelativeToolTip": "PaymentTest\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:55:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Views\\Home\\Payment.cshtml",
+              "RelativeDocumentMoniker": "PaymentTest\\Views\\Home\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Views\\Home\\Payment.cshtml",
+              "RelativeToolTip": "PaymentTest\\Views\\Home\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T12:55:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PaymentTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PaymentTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T12:54:50.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PaymentTest\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ECS3KOR\\Documents\\C # Training\\ASP.NET Core MVC\\PaymentTestSoln\\PaymentTest\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PaymentTest\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:52:42.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
